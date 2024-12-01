@@ -26,3 +26,6 @@ jobs:
 
     - name: Run tests
       run: pytest
+    
+    - name: Print a message to the log
+      run: echo "Hello, this is a test message from the GitHub Action!"
