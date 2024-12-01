@@ -29,3 +29,6 @@ jobs:
     
     - name: Print a message to the log
       run: echo "Hello, this is a test message from the GitHub Action!"
+
+    - name: Adding 2 numbers
+      run: echo(2+5)
