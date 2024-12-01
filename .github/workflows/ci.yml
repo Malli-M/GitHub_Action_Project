@@ -31,4 +31,4 @@ jobs:
       run: echo "Hello, this is a test message from the GitHub Action!"
 
     - name: Adding 2 numbers
-      run: echo(`2+5`)
+      run: echo `2+5`
